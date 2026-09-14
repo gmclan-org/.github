@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://gmclan.org](https://gmclan.org/media/images/gmclan-logo-2021.svg)" alt="GMClan Logo" width="400">
+  <img src="/profile/gmclan-logo-2021.svg" alt="GMClan Logo" width="400">
 
   # Welcome to the GMCLAN Organization on GitHub! 👋
   
