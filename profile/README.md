@@ -3,7 +3,7 @@
 
   # Welcome to the GMCLAN Organization on GitHub! 👋
   
-  **Official repositories of the game development service – [GMClan.org](https://gmclan.org)**
+  **Official repositories of the Polish game development community – [GMClan.org](https://gmclan.org)**
 </div>
 
 ---
