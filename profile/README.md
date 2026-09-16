@@ -15,7 +15,7 @@ GMClan is a Polish game development community focused primarily on **GameMaker**
 
 Some of our repositories are available using GMPM (Game Maker Package Manager). Older ones should be ported with LTS 2026.1 release.
 
-`http://gmpm.gmclan.org/`
+`http://gmpm.gmclan.org/` - you can also check our resources there by visiting http://gmpm.gmclan.org/ .
 
 ---
 
